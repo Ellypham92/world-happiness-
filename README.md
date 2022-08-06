@@ -1,5 +1,5 @@
 *** work in progress..
-### :hammer: Data Preprocessing with Tableau Prep
+### star: Data Preprocessing with Tableau Prep
 - Rename fields for consistency 
 - Combine world happiness report from 2015 to 2022
 - Remove the unnecessary fields
