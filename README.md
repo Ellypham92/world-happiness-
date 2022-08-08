@@ -1,6 +1,9 @@
 <div id="header" align="center">
-## :notes: Pursuit of Happiness
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/64395120/183522052-b85d6959-2490-4d61-b47c-bffd30015efd.png">
+</div>
+
+<div id="header" align="center">
+## :notes: Pursuit of Happiness
 </div>
 
 ### Data Cleaning 
