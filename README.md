@@ -2,9 +2,9 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/64395120/183522052-b85d6959-2490-4d61-b47c-bffd30015efd.png">
 </div>
 
-<div id="header" align="center">
+<h3 id="header" align="center">
  :notes: Pursuit of Happiness
-</div>
+</h3>
 
 ### Data Cleaning 
 ### :star: Data Preprocessing with Tableau Prep
