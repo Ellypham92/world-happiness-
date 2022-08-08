@@ -1,4 +1,5 @@
-*** work in progress..
+## :notes: Pursuit of Happiness
+
 ### :star: Data Preprocessing with Tableau Prep
 - Rename the fields for consistency 
 - Combine the world happiness reports from 2015 to 2022
