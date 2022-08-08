@@ -1,5 +1,7 @@
 ## :notes: Pursuit of Happiness
+<img width="500" alt="image" src="[https://user-images.githubusercontent.com/64395120/183234255-2661f9c2-4d01-4d6c-a187-320d69dfd98e.png](https://user-images.githubusercontent.com/64395120/183521727-a7d57353-7ded-4532-818f-7d3399a7610d.png)">
 
+### Data Cleaning 
 ### :star: Data Preprocessing with Tableau Prep
 - Rename the fields for consistency 
 - Combine the world happiness reports from 2015 to 2022
