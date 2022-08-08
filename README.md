@@ -1,5 +1,6 @@
 ## :notes: Pursuit of Happiness
-<img width="500" alt="image" src="[https://user-images.githubusercontent.com/64395120/183234255-2661f9c2-4d01-4d6c-a187-320d69dfd98e.png](https://user-images.githubusercontent.com/64395120/183521727-a7d57353-7ded-4532-818f-7d3399a7610d.png)">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/64395120/183522052-b85d6959-2490-4d61-b47c-bffd30015efd.png">
+
 
 ### Data Cleaning 
 ### :star: Data Preprocessing with Tableau Prep
