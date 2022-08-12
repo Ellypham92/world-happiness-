@@ -18,7 +18,6 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 ### :sunrise: Data Visualization 
 - [View visualization in tableau](https://public.tableau.com/app/profile/elly.pham/viz/Thingsthatmakeyouhappyaccordingtoscience/HappinessDashboard)
 
-## Analysis 
 ### :bulb:Data
 - [View data source](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
 - Here is a slice of the data:
