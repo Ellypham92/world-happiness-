@@ -53,10 +53,16 @@ Top 15 least happy country
 - For the least happy countries, the main three factors that play important roles are also GDP per capita, Social support, and Health life expectancy, Freedom to make life choices
 - Additionally, we discovered the proportion of the reported factors changes and are proportionally different across these countries compared to the top 15 happiest countries which we do not see much. An example, Afghanistan has no social support and Rwanda is not having good social support programs
 
-4. Predictive Analysis
-We choose Linear Regression since the model produces the highest accuracy in comparision to Random Forest, Decision Tree, or Ridge Regression
+4. Predictive Analysis 
+- We choose Linear Regression since the model produces the highest accuracy in comparision to Random Forest, Decision Tree, or Ridge Regression
 ![Screen Shot 2022-08-11 at 11 54 09 PM](https://user-images.githubusercontent.com/64395120/184287417-6a3002b2-94b3-4b49-94cd-861babe7fc48.png)
 ![Screen Shot 2022-08-11 at 11 54 45 PM](https://user-images.githubusercontent.com/64395120/184287448-a809b402-679a-4edf-bde0-eba17080fc9a.png)
+
+- The most important features that affect the well-being of the citizens by examining the coefficents 
+![Screen Shot 2022-08-11 at 11 52 07 PM](https://user-images.githubusercontent.com/64395120/184287682-4e43f826-87fc-4f22-b3f3-9adc3b699c06.png)
+
+- Visualizing the important features
+![Screen Shot 2022-08-11 at 11 56 13 PM](https://user-images.githubusercontent.com/64395120/184287740-23cbd312-cf9e-45cc-a639-c40bed937d37.png)
 
 
 
