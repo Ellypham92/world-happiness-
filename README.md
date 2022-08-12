@@ -26,7 +26,7 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 
 ### Exploratory Data Analysis
 Exploring numerical features by visualizing in histogram
-- There are 147 countries ranging from 1 to 146 based on their happiness score
+- There are 147 countries ranging from 1 to 146 based on their happiness score <br>
         - In the happiness score, the score is from a minimum of ~2 to a maximum of ~8. Most of the countries received an average score of 5
 
       
