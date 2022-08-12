@@ -13,7 +13,8 @@
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/64395120/184283157-7f8e61d4-8b3d-4cb0-a952-e3a8ccd48513.png">
 
 ### :mag:  Data Cleaning 
-- Checking the null values using isnull().sum() in pandas libaray: No null values are found
+- Checking the null values using isnull().sum() in pandas libaray
+   No null values are found
 - Rename the fields using rename() in pandas library
 <img width="922" alt="Screen Shot 2022-08-11 at 11 12 01 PM" src="https://user-images.githubusercontent.com/64395120/184283851-e172305b-8eb5-4982-8c43-c5e113034636.png">
 
