@@ -16,6 +16,7 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/64395120/184283157-7f8e61d4-8b3d-4cb0-a952-e3a8ccd48513.png">
 
 ### :bulb:Data
+- [View data source](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
 - Here is a slice of the data:
 <img width="1077" alt="Screen Shot 2022-08-11 at 11 29 49 PM" src="https://user-images.githubusercontent.com/64395120/184285333-a1e0fbb0-d797-4b5f-bd2c-85022d87c96b.png">
 
