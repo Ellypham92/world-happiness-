@@ -6,10 +6,13 @@
  :notes: Pursuit of Happiness
 </h3>
 
-### :mag:  Data Cleaning 
 ### :star: Data Preprocessing with Tableau Prep
 - Rename the fields for consistency 
 - Combine the world happiness reports from 2015 to 2022
 - Remove the unnecessary fields
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/64395120/184283157-7f8e61d4-8b3d-4cb0-a952-e3a8ccd48513.png">
 
+### :mag:  Data Cleaning 
+- Checking the null values using isnull().sum() in pandas libaray: No null values are found
+- Rename the fields using rename() in pandas library
+<img width="922" alt="Screen Shot 2022-08-11 at 11 12 01 PM" src="https://user-images.githubusercontent.com/64395120/184283749-75525243-071f-4467-852b-eb777534be21.png">
