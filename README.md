@@ -64,5 +64,7 @@ Top 15 least happy country
 - Visualizing the important features
 ![Screen Shot 2022-08-11 at 11 56 13 PM](https://user-images.githubusercontent.com/64395120/184287740-23cbd312-cf9e-45cc-a639-c40bed937d37.png)
 
+- It appears that Freedom to make life choices is the most important factor contributing to the country happiness followed by Healthy life expectancy, Social support. GDP per capita seems to be less important than the other factors based on what we found
 
+### :star2: Conclusion 
 
