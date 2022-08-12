@@ -18,14 +18,11 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 ### :bulb:Data
 - Here is a slice of the data:
 <img width="1077" alt="Screen Shot 2022-08-11 at 11 29 49 PM" src="https://user-images.githubusercontent.com/64395120/184285333-a1e0fbb0-d797-4b5f-bd2c-85022d87c96b.png">
-The definition of the variables that will be using:
-- Rank: ranking a country from the highest to the lowest based on the happiness score 
-- Country: name of a country 
+
 - GDP per capita: a reflection of such economic health into an individual citizen perspective
 - Social support: tangible and intangible resources that are available to one
 - Healthy life expectancy: the average number of years that one is expected to live in a good health 
-- Freedom to make life choices: the ability to decide or choose things without any constraints 
-                                from external parties
+- Freedom to make life choices: the ability to decide or choose things without any constraints from external parties
 - Generosity: how kind one to another
 - Perceptions of corruption: the levels of corruption by country
 ### :mag:  Data Cleaning 
