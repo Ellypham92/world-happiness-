@@ -15,4 +15,5 @@
 ### :mag:  Data Cleaning 
 - Checking the null values using isnull().sum() in pandas libaray: No null values are found
 - Rename the fields using rename() in pandas library
-<img width="922" alt="Screen Shot 2022-08-11 at 11 12 01 PM" src="https://user-images.githubusercontent.com/64395120/184283749-75525243-071f-4467-852b-eb777534be21.png">
+<img width="922" alt="Screen Shot 2022-08-11 at 11 12 01 PM" src="https://user-images.githubusercontent.com/64395120/184283851-e172305b-8eb5-4982-8c43-c5e113034636.png">
+
