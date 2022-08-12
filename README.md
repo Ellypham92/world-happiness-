@@ -6,7 +6,7 @@
  :notes: Pursuit of Happiness
 </h3>
 
-### :construction:Data Cleaning 
+### :mag:  Data Cleaning 
 ### :star: Data Preprocessing with Tableau Prep
 - Rename the fields for consistency 
 - Combine the world happiness reports from 2015 to 2022
