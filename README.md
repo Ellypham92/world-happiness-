@@ -26,12 +26,7 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 
 ### Exploratory Data Analysis
 - There are 147 countries ranging from 1 to 146 based on their happiness score
-         - In the happiness score, the score is from a minimum of ~2 to a maximum of ~8. Most of the countries received an average score of 5
-         - In GDP per capita, we found an outlier where it got 0. However, most of the countries are in the bucket of 1.5 to 2.0
-         - In Social support, we also found some countries are in the lower tail. However, a lot of the countries are having good social support programs as we see the histogram is left skewed
-         - In Healthy life expectancy, looks like the majority are having healthy life with a very few that are still struggling
-         - In Freedom to make life choices, then we can see the histogram is left-skewed, meaning people now with the freedom to decide on their course
-         - In Generosity, we found outliers that are at the higher end. However, many countries are ranked from 0 to 0.2 which is the lower
-         - In Perceptions of corruption, the average score is 0.154781 which is way lower than the max score of 0.587
+      - In the happiness score, the score is from a minimum of ~2 to a maximum of ~8. Most of the countries received an average score of 5
+
       
 ![Screen Shot 2022-08-11 at 11 32 36 PM](https://user-images.githubusercontent.com/64395120/184285508-735b18bc-534a-4964-8557-59308117807c.png)
