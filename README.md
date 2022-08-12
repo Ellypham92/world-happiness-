@@ -9,15 +9,16 @@
 ### :globe_with_meridians: Context
 The World Happiness Report is a publication of the Sustainable Development Solutions Network, powered by the Gallup World Poll Data. The data used in the analysis is collected from the year 2015 to 2022; contains 175 countries ranking by happiness score on a scale from 1 to 8. There is no fixed formula to determine what makes a country happy. However, in recent years, happiness has become a strongest indicator to judge a country's social progress. The happiness indicator has been getting more attention from people accross the globe. 
 
-### :sunrise: Data Visualization 
-- [View visualization in tableau](https://public.tableau.com/app/profile/elly.pham/viz/Thingsthatmakeyouhappyaccordingtoscience/HappinessDashboard)
-
 ### :star: Data Preprocessing 
 - Rename the fields for consistency 
 - Combine the world happiness reports from 2015 to 2022
 - Remove the unnecessary fields in Tableau Prep
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/64395120/184283157-7f8e61d4-8b3d-4cb0-a952-e3a8ccd48513.png">
 
+### :sunrise: Data Visualization 
+- [View visualization in tableau](https://public.tableau.com/app/profile/elly.pham/viz/Thingsthatmakeyouhappyaccordingtoscience/HappinessDashboard)
+
+## Analysis 
 ### :bulb:Data
 - [View data source](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
 - Here is a slice of the data:
