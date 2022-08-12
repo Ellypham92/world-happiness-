@@ -67,4 +67,10 @@ Top 15 least happy country
 - It appears that Freedom to make life choices is the most important factor contributing to the country happiness followed by Healthy life expectancy, Social support. GDP per capita seems to be less important than the other factors based on what we found
 
 ### :star2: Conclusion 
+As our life has significantly improved over the past century, it is important for us to pay more attention to the life happiness. This analysis result would ultimately provide a direction for the government in deciding where a country should be heading in the next years to maintain and improve the happiness of their citizen.
 
+We learned that most of the happiest countries are located in Western Europe, North America, and ANZ area where life is stable since their economy is fully developed and access to public services is fully accessible. On another hand, the least happy countries are located in South Africa and South Asia which often experience instability.
+
+All of the factors that impact the level of happiness; we found that Freedom to make life choices, healthy life expectancy, Social support, and lastly GDP per capita appear to decide whether a country or region is happier or less. Our living conditions have improved across the regions compared to the past, people tend to care more about their rights as a citizen and how they can maintain a healthy life.
+
+Due to the limited availability of data dimensions, the accuracy of our research can be improved over time as more information is collected.
