@@ -35,9 +35,28 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 - In Generosity, we found outliers that are at the higher end. However, many countries are ranked from 0 to 0.2 which is the lower
 - In Perceptions of corruption, the average score is 0.154781 which is way lower than the max score of 0.587
 
-2.Exploring the correlation between the numerical features
+2. Exploring the correlation between the numerical features
 ![Screen Shot 2022-08-11 at 11 42 55 PM](https://user-images.githubusercontent.com/64395120/184286430-8b2eaa6c-2c4b-42b6-8788-be1e80c6af00.png)
 - Happiness score is highly correlated to GDP per capita, Social Support, and Healthy life expectancy. Weak correlation to Generosity
 - GDP per capita is moderately correlated to Freedom to make life choices and having a weak correlation with Generosity
 - Healthy life expectancy is highly correlated to GDP per capita and having a weak correlation with Generosity
 - It is unexpected that Generosity is having a weak correlation to GDP per capita, Social support, and healthy life expectancy
+
+3. The proportion of 'Country', 'GDP per capita', 'Social support', 'Healthy life expectancy', 'Freedom to make life choices','Generosity', 'Perceptions of corruption' in top 15 happiest countries and top least 15 happy country
+Top 15 happiest country
+![Screen Shot 2022-08-11 at 11 46 04 PM](https://user-images.githubusercontent.com/64395120/184286714-e9acbe71-fb3a-4fd8-b4b5-6e2d3659e921.png)
+- The visualization shows the estimated contributions of the reported factors to the overall happiness of a country. In the happiest countries, it appears that GDP per capita, Social support, Healthy life expectancy, and Freedom to make life choices play the most important roles
+- On another note, the proportion of these factors is almost the same across these happy countries
+
+Top 15 least happy country
+![Screen Shot 2022-08-11 at 11 50 17 PM](https://user-images.githubusercontent.com/64395120/184287078-3e694687-ce24-4c36-a0ff-833e475042ca.png)
+- For the least happy countries, the main three factors that play important roles are also GDP per capita, Social support, and Health life expectancy, Freedom to make life choices
+- Additionally, we discovered the proportion of the reported factors changes and are proportionally different across these countries compared to the top 15 happiest countries which we do not see much. An example, Afghanistan has no social support and Rwanda is not having good social support programs
+
+4. Predictive Analysis
+We choose Linear Regression since the model produces the highest accuracy in comparision to Random Forest, Decision Tree, or Ridge Regression
+![Screen Shot 2022-08-11 at 11 54 09 PM](https://user-images.githubusercontent.com/64395120/184287417-6a3002b2-94b3-4b49-94cd-861babe7fc48.png)
+![Screen Shot 2022-08-11 at 11 54 45 PM](https://user-images.githubusercontent.com/64395120/184287448-a809b402-679a-4edf-bde0-eba17080fc9a.png)
+
+
+
