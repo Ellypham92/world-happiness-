@@ -78,9 +78,9 @@ Top 15 least happy country
 - It appears that Freedom to make life choices is the most important factor contributing to the country happiness followed by Healthy life expectancy, Social support. GDP per capita seems to be less important than the other factors based on what we found
 
 ### :star2: Conclusion 
-As our life has significantly improved over the past century, it is important for us to pay more attention to the life happiness. This analysis result would ultimately provide a direction for the government in deciding where a country should be heading in the next years to maintain and improve the happiness of their citizen.
+As our life has significantly improved over the past century, it is important for us to pay more attention to our well-being life. This analysis result would ultimately provide a direction for the government in deciding where a country should be heading in the next years and how to maintain and improve the happiness of their citizens.
 
-We learned that most of the happiest countries are located in Western Europe, North America, and ANZ area where life is stable since their economy is fully developed and access to public services is fully accessible. On another hand, the least happy countries are located in South Africa and South Asia which often experience instability.
+We learned that most of the happiest countries are located in Western Europe, North America, and ANZ area where their economy is fully developed and public services is fully accessible. On another hand, the least happy countries are located in South Africa and South Asia which often experience the instability. The reported indicators in the reports are not consitent between the least happy countries; an example is that Afganistan has no social support program and their citizens seem not having the social right to make the decision on their own course. 
 
 All of the variables in the report are somehow correlated; however we discovered a truthful fact is Freedom to make life choices, healthy life expectancy, Social support, and lastly GDP per capita appear to deciding whether a country or region is being happier or less happy. Our living conditions have improved across the regions compared to the past, people tend to care more about their rights as a citizen and how they can maintain a healthy life.
 
