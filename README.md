@@ -18,7 +18,16 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 ### :bulb:Data
 - Here is a slice of the data:
 <img width="1077" alt="Screen Shot 2022-08-11 at 11 29 49 PM" src="https://user-images.githubusercontent.com/64395120/184285333-a1e0fbb0-d797-4b5f-bd2c-85022d87c96b.png">
-
+The definition of the variables that will be using:
+- Rank: ranking a country from the highest to the lowest based on the happiness score 
+- Country: name of a country 
+- GDP per capita: a reflection of such economic health into an individual citizen perspective
+- Social support: tangible and intangible resources that are available to one
+- Healthy life expectancy: the average number of years that one is expected to live in a good health 
+- Freedom to make life choices: the ability to decide or choose things without any constraints 
+                                from external parties
+- Generosity: how kind one to another
+- Perceptions of corruption: the levels of corruption by country
 ### :mag:  Data Cleaning 
 - Checking the null values using isnull().sum() in pandas libaray. No null values are found
 - Rename the fields using rename() in pandas library
@@ -71,6 +80,6 @@ As our life has significantly improved over the past century, it is important fo
 
 We learned that most of the happiest countries are located in Western Europe, North America, and ANZ area where life is stable since their economy is fully developed and access to public services is fully accessible. On another hand, the least happy countries are located in South Africa and South Asia which often experience instability.
 
-All of the factors that impact the level of happiness; we found that Freedom to make life choices, healthy life expectancy, Social support, and lastly GDP per capita appear to decide whether a country or region is happier or less. Our living conditions have improved across the regions compared to the past, people tend to care more about their rights as a citizen and how they can maintain a healthy life.
+All of the variables in the report are somehow correlated; however we discovered a truthful fact is Freedom to make life choices, healthy life expectancy, Social support, and lastly GDP per capita appear to deciding whether a country or region is being happier or less happy. Our living conditions have improved across the regions compared to the past, people tend to care more about their rights as a citizen and how they can maintain a healthy life.
 
 Due to the limited availability of data dimensions, the accuracy of our research can be improved over time as more information is collected.
