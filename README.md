@@ -26,6 +26,7 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 
 ### Exploratory Data Analysis
 1. Exploring numerical features by visualizing in histogram
+![Screen Shot 2022-08-11 at 11 32 36 PM](https://user-images.githubusercontent.com/64395120/184285508-735b18bc-534a-4964-8557-59308117807c.png)
 - In the happiness score, the score is from a minimum of ~2 to a maximum of ~8. Most of the countries received an average score of 5
 - In GDP per capita, we found an outlier where it got 0. However, most of the countries are in the bucket of 1.5 to 2.0
 - In Social support, we also found some countries are in the lower tail. However, a lot of the countries are having good social support programs as we see the histogram is left skewed
@@ -34,5 +35,9 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 - In Generosity, we found outliers that are at the higher end. However, many countries are ranked from 0 to 0.2 which is the lower
 - In Perceptions of corruption, the average score is 0.154781 which is way lower than the max score of 0.587
 
-      
-![Screen Shot 2022-08-11 at 11 32 36 PM](https://user-images.githubusercontent.com/64395120/184285508-735b18bc-534a-4964-8557-59308117807c.png)
+2.Exploring the correlation between the numerical features
+![Screen Shot 2022-08-11 at 11 42 55 PM](https://user-images.githubusercontent.com/64395120/184286430-8b2eaa6c-2c4b-42b6-8788-be1e80c6af00.png)
+- Happiness score is highly correlated to GDP per capita, Social Support, and Healthy life expectancy. Weak correlation to Generosity
+- GDP per capita is moderately correlated to Freedom to make life choices and having a weak correlation with Generosity
+- Healthy life expectancy is highly correlated to GDP per capita and having a weak correlation with Generosity
+- It is unexpected that Generosity is having a weak correlation to GDP per capita, Social support, and healthy life expectancy
