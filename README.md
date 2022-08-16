@@ -53,11 +53,11 @@ Definition:
 - Healthy life expectancy is highly correlated to GDP per capita and having a weak correlation with Generosity
 - It is unexpected that Generosity is having a weak correlation to GDP per capita, Social support, and healthy life expectancy
 
-3. The proportion of 'Country', 'GDP per capita', 'Social support', 'Healthy life expectancy', 'Freedom to make life choices','Generosity', 'Perceptions of corruption' in top 15 happiest countries and top least 15 happy country
+3. The proportion of 'Country', 'GDP per capita', 'Social support', 'Healthy life expectancy', 'Freedom to make life choices','Generosity', 'Perceptions of corruption' in top 15 happiest countries and top least 15 happy country <br>
 **Top 15 happiest country**
 ![Screen Shot 2022-08-11 at 11 46 04 PM](https://user-images.githubusercontent.com/64395120/184286714-e9acbe71-fb3a-4fd8-b4b5-6e2d3659e921.png)
 - The visualization shows the estimated contributions of the reported factors to the overall happiness of a country. In the happiest countries, it appears that GDP per capita, Social support, Healthy life expectancy, and Freedom to make life choices play the most important roles
-- On another note, the proportion of these factors is almost the same across these happy countries
+- On another note, the proportion of these factors is almost the same across these happy countries <br>
 
 **Top 15 least happy country**
 ![Screen Shot 2022-08-11 at 11 50 17 PM](https://user-images.githubusercontent.com/64395120/184287078-3e694687-ce24-4c36-a0ff-833e475042ca.png)
