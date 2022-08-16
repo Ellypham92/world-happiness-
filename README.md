@@ -16,7 +16,7 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 - Rename the fields for consistency 
 - Combine the world happiness reports from 2015 to 2022
 - Remove the unnecessary fields in Tableau Prep
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/64395120/184283157-7f8e61d4-8b3d-4cb0-a952-e3a8ccd48513.png">
+<img width="1200" alt="image" src="https://user-images.githubusercontent.com/64395120/184283157-7f8e61d4-8b3d-4cb0-a952-e3a8ccd48513.png">
 
 ### :bulb:Data
 - [View data source](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
