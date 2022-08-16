@@ -79,7 +79,7 @@ Definition:
 - It appears that Freedom to make life choices is the most important factor contributing to the country happiness followed by Healthy life expectancy, Social support. GDP per capita seems to be less important than the other factors based on what we found
 
 ### :star2: Conclusion 
-As our life has significantly improved over the past century, it is important for us to pay more attention to our well-being life. This analysis result would ultimately provide a direction for the government in deciding where a country should be heading in the next years and how to maintain and improve the happiness of their citizens.
+As our life has significantly improved over the past century, it is important for us to pay more attention to our well-being. This analysis result would ultimately provide a direction for the government in deciding where a country should be heading in the next years and how to maintain and improve the happiness of their citizens.
 
 We learned that most of the happiest countries are located in Western Europe, North America, and ANZ area where their economy is fully developed and public services is fully accessible. On another hand, the least happy countries are located in South Africa and South Asia which often experience the instability. The reported indicators in the reports are not consitent between the least happy countries; an example is that Afganistan has no social support program and their citizens seem not having the social right to make the decision on their own course. 
 
